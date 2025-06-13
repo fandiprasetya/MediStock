@@ -13,6 +13,7 @@ Tujuannya adalah untuk:
 
 ## Screenshot
 ![Login dan Select User](assets/images/login.jpg)
+![Dashboard Dev](assets/images/dashboard dev.jpg)
 
 
 ## Fitur Utama
