@@ -13,7 +13,7 @@ Tujuannya adalah untuk:
 
 ## Screenshot
 (Silakan tambahkan gambar dari antarmuka aplikasi seperti tampilan login, dashboard, dll.) 
-
+![Login dan Select User](assets/images/login.jpg)
 
 ## Fitur Utama
 1. Manajemen pasien dan dokter
