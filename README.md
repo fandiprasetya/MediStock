@@ -12,9 +12,23 @@ Tujuannya adalah untuk:
 2. Mempermudah akses informasi bagi staf medis.
 
 ## Screenshot
-![Login dan Select User](assets/images/login.jpg)
-![Dashboard Dev](assets/images/dashboard dev.jpg)
+![Login dan Select User](assets/images/logindevnselectuser.jpg)
+*Login Developer dan Select User*
 
+![Dashboard Dev](assets/images/dashboarddev.jpg)
+*Dashboard Developer*
+
+![Login Admin](assets/images/loginadmin.jpg)
+*Login Admin*
+
+![Login Dokter](assets/images/logindokter.jpg)
+*Login Dokter*
+
+![Login Apoteker](assets/images/loginfarmasi.jpg)
+*Login Apoteker*
+
+![Login Pasien](assets/images/loginpasien.jpg)
+*Login Pasien*
 
 ## Fitur Utama
 1. Manajemen pasien dan dokter
